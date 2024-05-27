@@ -1,0 +1,61 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "TiledMap.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "exportAsImage.includeBackgroundColor": true,
+    "fileStates": {
+        "#MonochromeTileset": {
+            "scaleInEditor": 1
+        },
+        "C:/Users/lynlo/Desktop/CMPM 120/StarterPlatformer/assets/platformer-level-1.tmx": {
+            "scale": 1.5872916666666665,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 257.3566084788031,
+                "y": 180.4961281008006
+            }
+        },
+        "C:/Users/lynlo/Desktop/CMPM 120/StarterPlatformer/assets/platformer-level-1.tmx#kenny_tilemap_packed": {
+            "scaleInDock": 1
+        },
+        "TiledMap.tmx": {
+            "scale": 2,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 131,
+                "y": 134.25
+            }
+        },
+        "TiledMap.tmx#MonochromeTileset": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Users/lynlo/Desktop/CMPM 120/Platformer/assets",
+    "last.imagePath": "C:/Users/lynlo/Desktop/CMPM 120/Platformer/assets",
+    "map.height": 39,
+    "map.lastUsedExportFilter": "All Files (*)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 189,
+    "openFiles": [
+        "TiledMap.tmx"
+    ],
+    "project": "Level.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "TiledMap.tmx",
+        "C:/Users/lynlo/Desktop/CMPM 120/StarterPlatformer/assets/platformer-level-1.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
