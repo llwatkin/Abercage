@@ -1,5 +1,5 @@
-**Starter Platformer**
+**Abercage**
 
-A Phaser 3 code framework for creating a bare-bones 2D platformer game.
+Abercage is a 2D puzzle platformer where you must collect all eight lost souls to leave.
 
-Visual assets provided by Kenny Assets [Pixel Platformer](https://kenney.nl/assets/pixel-platformer) asset pack, with gratitude. 
+Visual assets provided by [Kenny Assets](https://kenney.nl/assets), with gratitude. 
